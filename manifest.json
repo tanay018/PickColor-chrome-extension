@@ -1,5 +1,5 @@
 {
-    "name": "Color picker",
+    "name": "PickColor",
     "description": "A color picker extension",
     "version": "1.0",
     "manifest_version": 3,
